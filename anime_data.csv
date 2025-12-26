@@ -1,0 +1,501 @@
+rank,score,popularity,title,type,source,genres,demographic,rating
+1,9.29,120,Sousou no Frieren,tv,manga,"Adventure, Drama, Fantasy",Shounen,pg_13
+2,9.14,830,Chainsaw Man Movie: Reze-hen,movie,manga,"Action, Fantasy, Gore, Urban Fantasy",Shounen,r
+3,9.1,3,Fullmetal Alchemist: Brotherhood,tv,manga,"Action, Adventure, Drama, Fantasy, Military",Shounen,r
+4,9.07,14,Steins;Gate,tv,visual_novel,"Drama, Psychological, Sci-Fi, Suspense, Time Travel",,pg_13
+5,9.05,21,Shingeki no Kyojin Season 3 Part 2,tv,manga,"Action, Drama, Gore, Military, Survival, Suspense",Shounen,r
+6,9.05,1512,Gintama: The Final,movie,manga,"Action, Comedy, Drama, Gag Humor, Historical, Parody, Samurai, Sci-Fi",Shounen,pg_13
+7,9.05,347,Gintama°,tv,manga,"Action, Comedy, Gag Humor, Historical, Parody, Samurai, Sci-Fi",Shounen,pg_13
+8,9.04,4670,Kingdom 6th Season,tv,manga,"Action, Historical, Military",Seinen,r
+9,9.03,8,Hunter x Hunter (2011),tv,manga,"Action, Adventure, Fantasy",Shounen,pg_13
+10,9.02,753,Ginga Eiyuu Densetsu,ova,novel,"Adult Cast, Drama, Military, Sci-Fi, Space",,r
+11,9.02,406,Gintama',tv,manga,"Action, Comedy, Gag Humor, Historical, Parody, Samurai, Sci-Fi",Shounen,pg_13
+12,9.02,757,Gintama': Enchousen,tv,manga,"Action, Comedy, Gag Humor, Historical, Parody, Samurai, Sci-Fi",Shounen,pg_13
+13,9.02,1862,One Piece Fan Letter,tv_special,light_novel,"Action, Adventure, Fantasy",Shounen,pg_13
+14,8.99,351,Bleach: Sennen Kessen-hen,tv,manga,"Action, Adventure, Supernatural",Shounen,r
+15,8.98,785,Gintama.,tv,manga,"Action, Comedy, Gag Humor, Historical, Parody, Samurai, Sci-Fi",Shounen,pg_13
+16,8.96,165,Kaguya-sama wa Kokurasetai: Ultra Romantic,tv,manga,"Comedy, Romance, School",Seinen,pg_13
+17,8.94,447,Fruits Basket: The Final,tv,manga,"Drama, Romance, Supernatural",Shoujo,pg_13
+18,8.93,124,Clannad: After Story,tv,visual_novel,"Drama, Romance",,pg_13
+19,8.93,146,Gintama,tv,manga,"Action, Comedy, Gag Humor, Historical, Parody, Samurai, Sci-Fi",Shounen,pg_13
+20,8.93,19,Koe no Katachi,movie,manga,"Award Winning, Drama",Shounen,pg_13
+21,8.91,587,Kusuriya no Hitorigoto 2nd Season,tv,light_novel,"Drama, Historical, Medical, Mystery",,pg_13
+22,8.91,47,Code Geass: Hangyaku no Lelouch R2,tv,original,"Award Winning, Drama, Mecha, Military, Sci-Fi, Super Power",,r
+23,8.9,601,3-gatsu no Lion 2nd Season,tv,manga,"Childcare, Drama, Strategy Game",Seinen,pg_13
+24,8.89,1060,Gintama Movie 2: Kanketsu-hen - Yorozuya yo Eien Nare,movie,manga,"Action, Comedy, Gag Humor, Historical, Parody, Samurai, Sci-Fi, Time Travel",Shounen,pg_13
+25,8.89,119,Monster,tv,manga,"Adult Cast, Drama, Mystery, Psychological, Suspense",Seinen,r+
+26,8.88,1235,Gintama. Shirogane no Tamashii-hen - Kouhan-sen,tv,manga,"Action, Comedy, Gag Humor, Historical, Parody, Samurai, Sci-Fi",Shounen,pg_13
+27,8.86,294,Kusuriya no Hitorigoto,tv,light_novel,"Drama, Historical, Medical, Mystery",,pg_13
+28,8.86,604,Owarimonogatari 2nd Season,tv_special,light_novel,"Comedy, Mystery, Supernatural, Vampire",,r
+29,8.86,261,Shingeki no Kyojin: The Final Season - Kanketsu-hen,tv_special,manga,"Action, Drama, Gore, Military, Survival, Suspense",Shounen,r
+30,8.84,328,Violet Evergarden Movie,movie,light_novel,"Award Winning, Drama",,pg_13
+31,8.84,1961,Kingdom 3rd Season,tv,manga,"Action, Historical, Military",Seinen,r
+32,8.83,11,Kimi no Na wa.,movie,original,"Award Winning, Drama",,pg_13
+33,8.83,2870,Shingeki no Kyojin Movie: Kanketsu-hen - The Last Attack,movie,manga,"Action, Drama, Gore, Military, Survival, Suspense",Shounen,r
+34,8.82,271,Vinland Saga Season 2,tv,manga,"Action, Adventure, Drama, Gore, Historical",Seinen,r
+35,8.81,1179,Gintama. Shirogane no Tamashii-hen,tv,manga,"Action, Comedy, Gag Humor, Historical, Parody, Samurai, Sci-Fi",Shounen,pg_13
+36,8.79,1201,Boku no Hero Academia: Final Season,tv,manga,"Action, School, Super Power",Shounen,pg_13
+37,8.78,349,Hajime no Ippo,tv,manga,"Combat Sports, Sports",Shounen,pg_13
+38,8.78,31,Shingeki no Kyojin: The Final Season,tv,manga,"Action, Drama, Gore, Military, Survival, Suspense",Shounen,r
+39,8.78,1055,Takopii no Genzai,ona,manga,"Drama, Psychological, Sci-Fi, Time Travel",Shounen,r
+40,8.78,499,Kizumonogatari III: Reiketsu-hen,movie,light_novel,"Action, Mystery, Supernatural, Vampire",,r
+41,8.78,72,Mob Psycho 100 II,tv,web_manga,"Action, Comedy, Supernatural",,pg_13
+42,8.77,3026,Ashita no Joe 2,tv,manga,"Combat Sports, Drama, Sports",Shounen,pg_13
+43,8.77,115,Haikyuu!! Karasuno Koukou vs. Shiratorizawa Gakuen Koukou,tv,manga,"School, Sports, Team Sports",Shounen,pg_13
+44,8.77,44,Sen to Chihiro no Kamikakushi,movie,original,"Adventure, Award Winning, Fantasy, Mythology",,pg
+45,8.77,93,Shingeki no Kyojin: The Final Season Part 2,tv,manga,"Action, Drama, Gore, Military, Survival, Suspense",Shounen,r
+46,8.77,63,Vinland Saga,tv,manga,"Action, Adventure, Drama, Gore, Historical",Seinen,r
+47,8.76,325,Monogatari Series: Second Season,tv,light_novel,"Comedy, Mystery, Romance, Supernatural, Vampire",,r
+48,8.75,42,Cowboy Bebop,tv,original,"Action, Adult Cast, Award Winning, Sci-Fi, Space",,r
+49,8.74,299,Bocchi the Rock!,tv,4_koma_manga,"CGDCT, Comedy, Music",,pg_13
+50,8.73,2576,Kingdom 4th Season,tv,manga,"Action, Historical, Military",Seinen,r
+51,8.73,3230,Kingdom 5th Season,tv,manga,"Action, Historical, Military",Seinen,r
+52,8.73,17,One Piece,tv,manga,"Action, Adventure, Fantasy",Shounen,pg_13
+53,8.72,117,Jujutsu Kaisen 2nd Season,tv,manga,"Action, Gore, School, Supernatural",Shounen,r
+54,8.72,752,Kaguya-sama wa Kokurasetai: First Kiss wa Owaranai,movie,manga,"Comedy, Drama, Romance, School",Seinen,pg_13
+55,8.72,941,Mushishi Zoku Shou 2nd Season,tv,manga,"Adult Cast, Adventure, Historical, Iyashikei, Mystery, Slice of Life, Supernatural",Seinen,pg_13
+56,8.72,550,Shiguang Dailiren,ona,original,"Adult Cast, Drama, Mystery, Super Power, Suspense, Time Travel",,pg_13
+57,8.72,398,86 Part 2,tv,light_novel,"Drama, Mecha, Military, Sci-Fi",,r
+58,8.72,2434,Hibike! Euphonium 3,tv,novel,"Drama, Music, Performing Arts, School",,pg_13
+59,8.71,934,Boku no Kokoro no Yabai Yatsu 2nd Season,tv,manga,"Comedy, Romance, School",Shounen,pg_13
+60,8.71,22,Code Geass: Hangyaku no Lelouch,tv,original,"Award Winning, Drama, Mecha, Military, School, Sci-Fi, Super Power",,r
+61,8.71,260,Mob Psycho 100 III,tv,web_manga,"Action, Comedy, Supernatural",,pg_13
+62,8.71,2849,The First Slam Dunk,movie,manga,"Award Winning, School, Sports, Team Sports",Shounen,pg_13
+63,8.71,1272,Tu Bian Yingxiong X,ona,original,"Action, Super Power",,pg_13
+64,8.7,1360,Shouwa Genroku Rakugo Shinjuu: Sukeroku Futatabi-hen,tv,manga,"Adult Cast, Drama, Historical, Love Polygon, Performing Arts, Romance",Josei,pg_13
+65,8.7,682,Bleach: Sennen Kessen-hen - Ketsubetsu-tan,tv,manga,"Action, Adventure, Supernatural",Shounen,r
+66,8.7,1066,Chi. Chikyuu no Undou ni Tsuite,tv,manga,"Drama, Historical",Seinen,r
+67,8.7,906,Kimetsu no Yaiba Movie 1: Mugenjou-hen - Akaza Sairai,movie,manga,"Action, Historical, Supernatural",Shounen,r
+68,8.7,74,Kimetsu no Yaiba: Yuukaku-hen,tv,manga,"Action, Historical, Supernatural",Shounen,r
+69,8.69,936,Rurouni Kenshin: Meiji Kenkaku Romantan - Tsuioku-hen,ova,manga,"Action, Adult Cast, Drama, Historical, Romance, Samurai",Shounen,r
+70,8.69,46,Violet Evergarden,tv,light_novel,Drama,,pg_13
+71,8.68,219,Great Teacher Onizuka,tv,manga,"Comedy, Delinquents, School, Workplace",Shounen,r
+72,8.68,2411,Mo Dao Zu Shi: Wanjie Pian,ona,web_novel,"Action, Adventure, Drama, Fantasy, Historical, Mystery, Mythology, Reincarnation",,r
+73,8.68,850,Mushishi Zoku Shou,tv,manga,"Adult Cast, Adventure, Historical, Iyashikei, Mystery, Slice of Life, Supernatural",Seinen,pg_13
+74,8.68,3935,Uma Musume: Cinderella Gray Part 2,tv,manga,"Anthropomorphic, Drama, Racing, Sports",Seinen,pg_13
+75,8.67,1007,Bleach: Sennen Kessen-hen - Soukoku-tan,tv,manga,"Action, Adventure, Supernatural",Shounen,r
+76,8.67,863,Hajime no Ippo: New Challenger,tv,manga,"Combat Sports, Sports",Shounen,pg_13
+77,8.67,99,Howl no Ugoku Shiro,movie,novel,"Adventure, Award Winning, Drama, Fantasy, Romance",,g
+78,8.67,106,Mononoke Hime,movie,original,"Action, Adventure, Award Winning, Fantasy",,pg_13
+79,8.65,2372,Monogatari Series: Off & Monster Season,ona,light_novel,"Comedy, Mystery, Supernatural, Vampire",,r
+80,8.65,222,Mushishi,tv,manga,"Adult Cast, Adventure, Historical, Iyashikei, Mystery, Slice of Life, Supernatural",Seinen,pg_13
+81,8.65,3119,Tian Guan Cifu Er,ona,web_novel,"Action, Adventure, Drama, Fantasy, Historical, Mythology",,pg_13
+82,8.64,24,Shigatsu wa Kimi no Uso,tv,manga,"Drama, Love Polygon, Music, Performing Arts, Romance, School",Shounen,pg_13
+83,8.64,1624,Shiguang Dailiren II,ona,original,"Adult Cast, Drama, Mystery, Super Power, Suspense, Time Travel",,r
+84,8.64,18,Shingeki no Kyojin Season 3,tv,manga,"Action, Drama, Gore, Military, Survival, Suspense",Shounen,r
+85,8.64,65,Tengen Toppa Gurren Lagann,tv,original,"Adventure, Award Winning, Mecha, Sci-Fi",,pg_13
+86,8.64,3844,Uma Musume: Pretty Derby - Shin Jidai no Tobira,movie,game,"Anthropomorphic, Racing, Sports",,pg_13
+87,8.64,668,Fate/stay night Movie: Heaven's Feel - III. Spring Song,movie,visual_novel,"Action, Fantasy, Urban Fantasy",,r
+88,8.63,1560,Guimi Zhi Zhu: Xiaochou Pian,ona,web_novel,"Action, Adult Cast, Fantasy, Isekai, Mystery, Suspense",,r
+89,8.63,1279,Look Back,movie,manga,"Drama, Otaku Culture",Shounen,pg_13
+90,8.63,91,Made in Abyss,tv,web_manga,"Adventure, Drama, Fantasy, Gore, Mystery, Sci-Fi",,r
+91,8.63,1046,Natsume Yuujinchou Shi,tv,manga,"Iyashikei, Mythology, Slice of Life, Supernatural",Shoujo,pg_13
+92,8.63,510,Odd Taxi,tv,original,"Adult Cast, Anthropomorphic, Award Winning, Drama, Mystery, Organized Crime, Suspense",,pg_13
+93,8.63,603,Ping Pong the Animation,tv,manga,"Award Winning, Drama, Sports",Seinen,pg_13
+94,8.62,98,Kaguya-sama wa Kokurasetai? Tensai-tachi no Renai Zunousen,tv,manga,"Comedy, Romance, School",Seinen,pg_13
+95,8.62,161,Mushoku Tensei: Isekai Ittara Honki Dasu Part 2,tv,light_novel,"Adventure, Drama, Ecchi, Fantasy, Isekai, Reincarnation",,r
+96,8.62,187,Cyberpunk: Edgerunners,ona,game,"Action, Gore, Organized Crime, Sci-Fi",,r+
+97,8.62,2,Death Note,tv,manga,"Psychological, Supernatural, Suspense",Shounen,r
+98,8.62,85,Haikyuu!! Second Season,tv,manga,"School, Sports, Team Sports",Shounen,pg_13
+99,8.61,1106,Bungou Stray Dogs 5th Season,tv,manga,"Action, Adult Cast, Detective, Mystery, Organized Crime, Super Power, Vampire",Seinen,r
+100,8.61,1292,Haikyuu!! Movie: Gomisuteba no Kessen,movie,manga,"School, Sports, Team Sports",Shounen,pg_13
+101,8.61,928,Hajime no Ippo: Rising,tv,manga,"Combat Sports, Sports",Shounen,pg_13
+102,8.61,708,Kaoru Hana wa Rin to Saku,tv,web_manga,"Drama, Romance, School",,pg_13
+103,8.61,301,Kenpuu Denki Berserk,tv,manga,"Action, Adventure, Drama, Fantasy, Gore, Horror, Military, Psychological",Seinen,r+
+104,8.61,1338,Natsume Yuujinchou Roku,tv,manga,"Iyashikei, Mythology, Slice of Life, Supernatural",Shoujo,pg_13
+105,8.6,471,Made in Abyss Movie 3: Fukaki Tamashii no Reimei,movie,web_manga,"Adventure, Drama, Fantasy, Gore, Mystery, Sci-Fi",,r
+106,8.6,473,Made in Abyss: Retsujitsu no Ougonkyou,tv,web_manga,"Adventure, Drama, Fantasy, Gore, Mystery, Sci-Fi",,r
+107,8.6,324,Ore dake Level Up na Ken Season 2: Arise from the Shadow,tv,web_manga,"Action, Adult Cast, Adventure, Fantasy, Urban Fantasy",,r
+108,8.6,1174,Tengen Toppa Gurren Lagann Movie 2: Lagann-hen,movie,original,"Mecha, Sci-Fi, Space, Super Power",,r+
+109,8.59,274,Seishun Buta Yarou wa Yumemiru Shoujo no Yume wo Minai,movie,light_novel,"Drama, Romance, School, Supernatural",,pg_13
+110,8.59,376,Suzumiya Haruhi no Shoushitsu,movie,light_novel,"Award Winning, Mystery, School, Sci-Fi, Supernatural",,pg_13
+111,8.59,454,Dungeon Meshi,tv,manga,"Adventure, Comedy, Fantasy, Gourmet",Seinen,r
+112,8.58,628,Shin Evangelion Movie:||,movie,original,"Award Winning, Drama, Mecha, Psychological, Sci-Fi, Suspense",,pg_13
+113,8.58,147,JoJo no Kimyou na Bouken Part 5: Ougon no Kaze,tv,manga,"Action, Adventure, Organized Crime, Super Power",Shounen,r
+114,8.58,1839,Mushishi Zoku Shou: Suzu no Shizuku,movie,manga,"Adult Cast, Adventure, Historical, Iyashikei, Mystery, Slice of Life, Supernatural",Seinen,pg_13
+115,8.58,3301,Natsume Yuujinchou Shichi,tv,manga,"Iyashikei, Mythology, Slice of Life, Supernatural",Shoujo,pg_13
+116,8.57,296,Nana,tv,manga,"Adult Cast, Drama, Love Polygon, Music, Romance",Shoujo,r+
+117,8.57,1,Shingeki no Kyojin,tv,manga,"Action, Award Winning, Drama, Gore, Military, Survival, Suspense",Shounen,r
+118,8.57,2751,Uma Musume: Cinderella Gray,tv,manga,"Anthropomorphic, Drama, Racing, Sports",Seinen,pg_13
+119,8.56,178,"Shinseiki Evangelion Movie: Air/Magokoro wo, Kimi ni",movie,original,"Avant Garde, Drama, Mecha, Psychological, Sci-Fi, Suspense",,r+
+120,8.56,217,Haikyuu!! To the Top Part 2,tv,manga,"School, Sports, Team Sports",Shounen,pg_13
+121,8.56,527,Kizumonogatari II: Nekketsu-hen,movie,light_novel,"Action, Mystery, Supernatural, Vampire",,r
+122,8.56,1339,Natsume Yuujinchou Go,tv,manga,"Iyashikei, Mythology, Slice of Life, Supernatural",Shoujo,pg_13
+123,8.56,1017,Natsume Yuujinchou San,tv,manga,"Iyashikei, Mythology, Slice of Life, Supernatural",Shoujo,pg_13
+124,8.56,247,Ookami Kodomo no Ame to Yuki,movie,original,"Award Winning, Childcare, Slice of Life, Supernatural",,pg_13
+125,8.55,68,Kimetsu no Yaiba Movie: Mugen Ressha-hen,movie,manga,"Action, Historical, Supernatural",Shounen,r
+126,8.55,160,Kimi no Suizou wo Tabetai,movie,novel,"Drama, Romance, School",,pg_13
+127,8.55,277,Perfect Blue,movie,novel,"Adult Cast, Avant Garde, Award Winning, Drama, Horror, Psychological, Showbiz, Suspense",,r+
+128,8.55,812,Slam Dunk,tv,manga,"School, Sports, Team Sports",Shounen,pg_13
+129,8.55,207,Steins;Gate 0,tv,visual_novel,"Drama, Sci-Fi, Suspense, Time Travel",,pg_13
+130,8.55,514,Yojouhan Shinwa Taikei,tv,novel,"Adult Cast, Award Winning, Comedy, Mystery, Psychological, Romance, Suspense, Time Travel",,r
+131,8.55,181,[Oshi no Ko],tv,manga,"Award Winning, Drama, Reincarnation, Showbiz",Seinen,pg_13
+132,8.55,6767,Doupo Cangqiong: San Nian Zhi Yue,ona,web_novel,"Action, Adventure, Fantasy, Historical, Martial Arts",,pg_13
+133,8.54,139,Fate/Zero 2nd Season,tv,light_novel,"Action, Fantasy, Urban Fantasy",,r
+134,8.54,300,Hotaru no Haka,movie,novel,"Drama, Historical",,pg_13
+135,8.54,887,Shouwa Genroku Rakugo Shinjuu,tv,manga,"Adult Cast, Drama, Historical, Love Polygon, Performing Arts, Romance",Josei,pg_13
+136,8.53,12,Shingeki no Kyojin Season 2,tv,manga,"Action, Drama, Gore, Military, Survival, Suspense",Shounen,r
+137,8.53,1043,Zoku Natsume Yuujinchou,tv,manga,"Iyashikei, Mythology, Slice of Life, Supernatural",Shoujo,pg_13
+138,8.53,523,[Oshi no Ko] 2nd Season,tv,manga,"Drama, Reincarnation, Showbiz",Seinen,pg_13
+139,8.53,1427,Dr. Stone: Science Future Part 2,tv,manga,"Adventure, Comedy",Shounen,pg_13
+140,8.53,431,Fruits Basket 2nd Season,tv,manga,"Drama, Romance, School, Supernatural",Shoujo,pg_13
+141,8.52,775,Bakuman. 3rd Season,tv,manga,"Comedy, Drama, Otaku Culture, Romance",Shounen,pg_13
+142,8.52,1535,Gintama Movie 1: Shinyaku Benizakura-hen,movie,manga,"Action, Comedy, Historical, Parody, Samurai, Sci-Fi",Shounen,r
+143,8.52,13,Jujutsu Kaisen,tv,manga,"Action, Award Winning, School, Supernatural",Shounen,r
+144,8.52,1719,Mushishi: Hihamukage,tv_special,manga,"Adult Cast, Adventure, Historical, Iyashikei, Mystery, Slice of Life, Supernatural",Seinen,pg_13
+145,8.52,109,Samurai Champloo,tv,original,"Action, Adventure, Comedy, Historical, Samurai",,r
+146,8.51,1250,Gintama. Porori-hen,tv,manga,"Action, Comedy, Gag Humor, Historical, Parody, Samurai, Sci-Fi",Shounen,pg_13
+147,8.51,981,JoJo no Kimyou na Bouken Part 6: Stone Ocean Part 3,ona,manga,"Action, Adventure, Super Power",Shounen,r
+148,8.51,1092,Kara no Kyoukai Movie 5: Mujun Rasen,movie,light_novel,"Action, Drama, Fantasy, Mystery, Romance, Suspense, Urban Fantasy",,r
+149,8.51,1153,Koukaku Kidoutai: Stand Alone Complex 2nd GIG,tv,manga,"Adult Cast, Detective, Mecha, Military, Mystery, Sci-Fi",Seinen,r
+150,8.5,129,JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai,tv,manga,"Action, Adventure, Super Power",Shounen,r
+151,8.5,8949,Luo Xiaohei Zhanji 2,movie,original,"Adventure, Drama, Fantasy",,g
+152,8.5,636,Mahou Shoujo Madoka★Magica Movie 3: Hangyaku no Monogatari,movie,original,"Award Winning, Drama, Mahou Shoujo, Psychological, Suspense",,pg_13
+153,8.5,7503,Nezha Zhi Mo Tong Nao Hai,movie,original,"Action, Comedy, Drama, Fantasy, Historical",,pg_13
+154,8.5,4891,Shoujo☆Kageki Revue Starlight Movie,movie,original,"Drama, Music, Performing Arts, School",,pg_13
+155,8.5,451,Sora yori mo Tooi Basho,tv,original,"Adventure, CGDCT, Comedy, Drama",,pg_13
+156,8.5,1099,Yuru Camp△ Season 2,tv,manga,"CGDCT, Iyashikei, Slice of Life",,pg_13
+157,8.5,1522,Grand Blue Season 2,tv,manga,"Adult Cast, Comedy, Gag Humor",Seinen,pg_13
+158,8.49,28,Mob Psycho 100,tv,web_manga,"Action, Comedy, Supernatural",,pg_13
+159,8.49,306,Ousama Ranking,tv,web_manga,"Adventure, Fantasy",,pg_13
+160,8.49,3174,Tian Guan Cifu Special,ona,web_novel,"Action, Adventure, Drama, Fantasy, Historical, Mythology",,pg_13
+161,8.48,5986,Chiikawa,tv,web_manga,Slice of Life,,g
+162,8.48,4,One Punch Man,tv,web_manga,"Action, Adult Cast, Comedy, Parody, Super Power",Seinen,r
+163,8.47,197,Nichijou,tv,manga,"Comedy, Gag Humor, School",Shounen,pg_13
+164,8.47,367,Summertime Render,tv,manga,"Mystery, Supernatural, Suspense, Time Travel",Shounen,r
+165,8.47,1309,Uchuu Kyoudai,tv,manga,"Adult Cast, Comedy, Space, Workplace",Seinen,pg_13
+166,8.47,37,Yakusoku no Neverland,tv,manga,"Mystery, Psychological, Survival, Suspense",Shounen,r
+167,8.47,84,Ansatsu Kyoushitsu 2nd Season,tv,manga,"Action, Comedy, School",Shounen,pg_13
+168,8.47,1830,Aria the Origination,tv,manga,"Iyashikei, Sci-Fi, Slice of Life",Shounen,g
+169,8.47,4781,Given Movie 3: Umi e,movie,manga,"Boys Love, Drama, Music",,pg_13
+170,8.46,608,Fate/stay night Movie: Heaven's Feel - II. Lost Butterfly,movie,visual_novel,"Action, Fantasy, Urban Fantasy",,r
+171,8.46,2494,Gintama: The Semi-Final,special,manga,"Action, Comedy, Gag Humor, Historical, Parody, Samurai",Shounen,pg_13
+172,8.46,1084,Mo Dao Zu Shi,ona,web_novel,"Action, Adventure, Drama, Fantasy, Historical, Mystery, Mythology, Reincarnation",,r
+173,8.46,2112,Mo Dao Zu Shi: Xian Yun Pian,ona,web_novel,"Action, Adventure, Drama, Fantasy, Historical, Mystery, Mythology, Reincarnation",,r
+174,8.46,618,Rainbow: Nisha Rokubou no Shichinin,tv,manga,"Delinquents, Drama, Historical, Suspense",Seinen,r
+175,8.46,302,Yuu☆Yuu☆Hakusho,tv,manga,"Action, Martial Arts, Mythology, Supernatural",Shounen,pg_13
+176,8.45,382,Steins;Gate Movie: Fuka Ryouiki no Déjà vu,movie,visual_novel,"Drama, Sci-Fi",,pg_13
+177,8.45,7120,Tian Guan Cifu Short Film,ona,web_novel,"Action, Adventure, Drama, Fantasy, Historical, Mythology",,pg_13
+178,8.45,202,Banana Fish,tv,manga,"Action, Adventure, Delinquents, Drama, Organized Crime, Psychological, Suspense",Shoujo,r
+179,8.45,1687,Chihayafuru 3,tv,manga,"Drama, Love Polygon, Romance, School, Sports, Strategy Game",Josei,pg_13
+180,8.45,223,Dandadan,tv,manga,"Action, Comedy, Supernatural",Shounen,r
+181,8.45,531,Dandadan 2nd Season,tv,manga,"Action, Comedy, Supernatural",Shounen,r
+182,8.45,230,Grand Blue,tv,manga,"Adult Cast, Comedy, Gag Humor",Seinen,pg_13
+183,8.45,497,Owarimonogatari,tv,light_novel,"Comedy, Mystery, Supernatural, Vampire",,r
+184,8.44,133,JoJo no Kimyou na Bouken Part 3: Stardust Crusaders - Egypt-hen,tv,manga,"Action, Adventure, Super Power",Shounen,r
+185,8.44,2258,Kimi ni Todoke 3rd Season,ona,manga,"Drama, Romance, School",Shoujo,pg_13
+186,8.44,1162,Pluto,ona,manga,"Action, Detective, Mystery, Psychological, Sci-Fi, Suspense",Seinen,pg_13
+187,8.44,7238,Xian Ni,ona,web_novel,"Action, Adventure, Fantasy, Historical, Martial Arts",,pg_13
+188,8.44,6664,Doupo Cangqiong: Nian Fan,ona,web_novel,"Action, Adventure, Fantasy, Historical, Martial Arts",,pg_13
+189,8.43,53,Chainsaw Man,tv,manga,"Action, Fantasy, Gore, Urban Fantasy",Shounen,r
+190,8.43,1400,Golden Kamuy 3rd Season,tv,manga,"Action, Adult Cast, Adventure, Historical, Military",Seinen,r
+191,8.43,36,Haikyuu!!,tv,manga,"School, Sports, Team Sports",Shounen,pg_13
+192,8.43,381,Hunter x Hunter,tv,manga,"Action, Adventure, Fantasy",Shounen,pg_13
+193,8.43,553,Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season,tv,light_novel,"Drama, Fantasy, Isekai, Psychological, Suspense, Time Travel",,r
+194,8.43,57,Spy x Family,tv,manga,"Action, Award Winning, Childcare, Comedy, Super Power",Shounen,pg_13
+195,8.43,1103,Zoku Owarimonogatari,tv,light_novel,"Comedy, Mystery, Supernatural, Vampire",,r
+196,8.42,173,Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2,tv,light_novel,"Drama, Fantasy, Isekai, Psychological, Suspense, Time Travel",,r
+197,8.42,439,Shingeki no Kyojin: Kuinaki Sentaku,ova,visual_novel,Action,,r
+198,8.42,1558,Tian Guan Cifu,ona,web_novel,"Action, Adventure, Drama, Fantasy, Historical, Mythology",,pg_13
+199,8.42,535,Violet Evergarden Gaiden: Eien to Jidou Shuki Ningyou,movie,light_novel,Drama,,pg_13
+200,8.42,2649,Wu Liuqi: Xuanwu Guo Pian,ona,original,"Action, Adventure, Comedy, Drama, Martial Arts, Mystery, Super Power",,r
+201,8.42,5,Kimetsu no Yaiba,tv,manga,"Action, Award Winning, Historical, Supernatural",Shounen,r
+202,8.42,1365,Kono Oto Tomare! Part 2,tv,manga,"Drama, Music, Performing Arts, School",Shounen,pg_13
+203,8.42,621,Koukaku Kidoutai: Stand Alone Complex,tv,manga,"Adult Cast, Award Winning, Detective, Mecha, Military, Mystery, Sci-Fi",Seinen,r
+204,8.42,2190,Mushishi Zoku Shou: Odoro no Michi,tv_special,manga,"Adult Cast, Adventure, Historical, Iyashikei, Mystery, Slice of Life, Supernatural",Seinen,pg_13
+205,8.42,2634,Natsume Yuujinchou Movie: Utsusemi ni Musubu,movie,manga,"Iyashikei, Mythology, Slice of Life, Supernatural",Shoujo,pg_13
+206,8.42,768,Bungou Stray Dogs 4th Season,tv,manga,"Action, Adult Cast, Detective, Mystery, Organized Crime, Super Power",Seinen,r
+207,8.42,3576,Gintama: Yorinuki Gintama-san on Theater 2D,movie,manga,"Action, Comedy, Gag Humor, Historical, Parody, Samurai, Sci-Fi",Shounen,pg_13
+208,8.41,1349,Saenai Heroine no Sodatekata Fine,movie,light_novel,"Comedy, Harem, Otaku Culture, Romance, School",,pg_13
+209,8.41,132,Saiki Kusuo no Ψ-nan,tv,manga,"Comedy, Gag Humor, School, Super Power",Shounen,pg_13
+210,8.41,327,Saiki Kusuo no Ψ-nan 2,tv,manga,"Comedy, Gag Humor, School, Super Power",Shounen,pg_13
+211,8.41,2462,Karakai Jouzu no Takagi-san Movie,movie,manga,"Love Status Quo, Romance, School",Shounen,pg_13
+212,8.41,241,Kono Subarashii Sekai ni Shukufuku wo! Movie: Kurenai Densetsu,movie,light_novel,"Adventure, Comedy, Fantasy, Isekai, Parody",,pg_13
+213,8.41,744,Mononoke,tv,original,"Adult Cast, Historical, Horror, Mystery, Mythology, Psychological, Supernatural, Suspense",,r
+214,8.4,50,Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen,tv,manga,"Comedy, Romance, School",Seinen,pg_13
+215,8.4,1477,Kamisama Hajimemashita: Kako-hen,ova,manga,"Comedy, Mythology, Romance, Supernatural, Time Travel",Shoujo,pg_13
+216,8.4,458,Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2,tv,light_novel,"Adventure, Drama, Ecchi, Fantasy, Isekai, Reincarnation",,r
+217,8.4,3386,Natsume Yuujinchou Roku Specials,special,manga,"Iyashikei, Mythology, Slice of Life, Supernatural",Shoujo,pg_13
+218,8.39,2788,Major S5,tv,manga,"Sports, Team Sports",Shounen,pg_13
+219,8.39,492,Houseki no Kuni,tv,manga,"Action, Anthropomorphic, Drama, Fantasy, Mystery",Seinen,pg_13
+220,8.39,6036,Ramayana: The Legend of Prince Rama,movie,other,Adventure,,g
+221,8.39,522,Sayonara no Asa ni Yakusoku no Hana wo Kazarou,movie,original,"Drama, Fantasy",,pg_13
+222,8.39,3766,Violet Evergarden: Recollections,special,light_novel,Drama,,pg_13
+223,8.38,9531,Tunshi Xingkong 3rd Season,ona,web_novel,"Action, Adventure, Fantasy, Martial Arts, Sci-Fi",,pg_13
+224,8.38,411,Vivy: Fluorite Eye's Song,tv,original,"Action, Music, Sci-Fi, Suspense, Time Travel",,r
+225,8.38,2456,Yuru Camp△ Movie,movie,manga,"Adult Cast, CGDCT, Iyashikei, Slice of Life",,pg_13
+226,8.38,488,Josee to Tora to Sakana-tachi,movie,novel,"Adult Cast, Drama, Romance, Visual Arts",,pg_13
+227,8.38,138,Jujutsu Kaisen 0 Movie,movie,manga,"Action, School, Supernatural",Shounen,r
+228,8.38,823,Kaze ga Tsuyoku Fuiteiru,tv,novel,"Adult Cast, Drama, Sports",,pg_13
+229,8.38,1644,Made in Abyss Movie 2: Hourou Suru Tasogare,movie,web_manga,"Adventure, Drama, Fantasy, Gore, Mystery, Sci-Fi",,r
+230,8.38,104,Mahou Shoujo Madoka★Magica,tv,original,"Award Winning, Drama, Mahou Shoujo, Psychological, Suspense",,pg_13
+231,8.38,1258,Mahou Shoujo Madoka★Magica Movie 2: Eien no Monogatari,movie,original,"Drama, Mahou Shoujo, Psychological, Suspense",,pg_13
+232,8.38,3702,Blue Giant,movie,manga,Music,Seinen,pg_13
+233,8.38,651,Cowboy Bebop: Tengoku no Tobira,movie,original,"Action, Adult Cast, Sci-Fi, Space",,r
+234,8.38,2464,Gintama°: Aizome Kaori-hen,ova,manga,"Comedy, Gag Humor, Parody",Shounen,pg_13
+235,8.37,315,3-gatsu no Lion,tv,manga,"Childcare, Drama, Strategy Game",Seinen,pg_13
+236,8.37,1096,Chihayafuru 2,tv,manga,"Drama, Love Polygon, Romance, School, Sports, Strategy Game",Josei,pg_13
+237,8.37,174,Haikyuu!! To the Top,tv,manga,"School, Sports, Team Sports",Shounen,pg_13
+238,8.37,9032,Tunshi Xingkong 4th Season,ona,web_novel,"Action, Adventure, Fantasy, Martial Arts, Sci-Fi",,pg_13
+239,8.37,1311,Karakai Jouzu no Takagi-san 3,tv,manga,"Comedy, Love Status Quo, Romance, School",Shounen,pg_13
+240,8.37,2763,Medalist,tv,manga,"Drama, Performing Arts, Sports",Seinen,pg_13
+241,8.36,607,Initial D First Stage,tv,manga,"Action, Drama, Racing",Seinen,pg_13
+242,8.36,763,K-On! Movie,movie,4_koma_manga,"Award Winning, CGDCT, Comedy, Music",,pg_13
+243,8.36,1261,Kara no Kyoukai Movie 7: Satsujin Kousatsu (Go),movie,light_novel,"Action, Fantasy, Mystery, Romance, Suspense, Urban Fantasy",,r+
+244,8.36,645,Kaze no Tani no Nausicaä,movie,manga,"Adventure, Award Winning, Drama, Fantasy",,pg_13
+245,8.36,432,Kizumonogatari I: Tekketsu-hen,movie,light_novel,"Action, Mystery, Supernatural, Vampire",,r
+246,8.36,329,Barakamon,tv,web_manga,"Childcare, Iyashikei, Slice of Life, Visual Arts",,pg_13
+247,8.36,1927,Cross Game,tv,manga,"Drama, Romance, School, Sports, Team Sports",Shounen,pg_13
+248,8.36,11900,Fanren Xiu Xian Chuan: Waihai Fengyun,ona,web_novel,"Action, Adventure, Fantasy, Historical, Martial Arts",,pg_13
+249,8.36,1977,Fruits Basket: Prelude,movie,manga,"Drama, Romance",Shoujo,pg_13
+250,8.36,4915,Girls & Panzer: Saishuushou Part 4,movie,original,"CGDCT, Military, School",,pg_13
+251,8.36,1967,Girls Band Cry,tv,original,"Drama, Music",,pg_13
+252,8.36,45,Shinseiki Evangelion,tv,original,"Avant Garde, Award Winning, Drama, Mecha, Psychological, Sci-Fi, Suspense",,pg_13
+253,8.35,2167,Versailles no Bara,tv,manga,"Crossdressing, Drama, Historical, Military, Romance",Shoujo,pg_13
+254,8.35,736,"Violet Evergarden: Kitto ""Ai"" wo Shiru Hi ga Kuru no Darou",special,light_novel,Drama,,pg_13
+255,8.35,272,Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan,tv,light_novel,"Comedy, Love Polygon, Romance, School",,pg_13
+256,8.35,1872,Non Non Biyori Nonstop,tv,manga,"CGDCT, Iyashikei, Slice of Life",Seinen,pg_13
+257,8.35,2209,Ashita no Joe,tv,manga,"Combat Sports, Drama, Sports",Shounen,pg_13
+258,8.35,201,Baccano!,tv,light_novel,"Action, Adult Cast, Historical, Mystery, Organized Crime, Supernatural",,r
+259,8.35,5024,Douluo Dalu 2nd Season,ona,novel,"Action, Adventure, Fantasy, Historical, Martial Arts",,pg_13
+260,8.35,194,Fumetsu no Anata e,tv,manga,"Adventure, Drama, Supernatural",Shounen,r
+261,8.35,2798,Gintama: Shiroyasha Koutan,special,manga,"Action, Comedy, Historical, Parody, Sci-Fi",,pg_13
+262,8.34,210,86,tv,light_novel,"Drama, Mecha, Military, Sci-Fi",,r
+263,8.34,182,Hellsing Ultimate,ova,manga,"Action, Adult Cast, Gore, Horror, Military, Supernatural, Vampire",Seinen,r
+264,8.34,1077,Hibike! Euphonium 2,tv,novel,"Drama, Music, Performing Arts, School",,pg_13
+265,8.34,162,Tensei shitara Slime Datta Ken 2nd Season,tv,manga,"Action, Comedy, Fantasy, Isekai, Reincarnation",Shounen,pg_13
+266,8.34,1275,Yofukashi no Uta Season 2,tv,manga,"Romance, Supernatural, Vampire",Shounen,pg_13
+267,8.34,5647,IDOLiSH7 Third Beat! Part 2,tv,game,"Drama, Idols (Male), Music",,pg_13
+268,8.34,205,Kimetsu no Yaiba: Mugen Ressha-hen,tv,manga,"Action, Historical, Supernatural",Shounen,r
+269,8.34,466,Kono Subarashii Sekai ni Shukufuku wo! 3,tv,light_novel,"Adventure, Comedy, Fantasy, Isekai, Parody",,pg_13
+270,8.34,5587,Meitantei Conan Movie 26: Kurogane no Submarine,movie,manga,"Action, Detective, Mystery",Shounen,pg_13
+271,8.34,89,Mushoku Tensei: Isekai Ittara Honki Dasu,tv,light_novel,"Adventure, Drama, Ecchi, Fantasy, Isekai, Reincarnation",,r
+272,8.33,2560,Natsume Yuujinchou: Itsuka Yuki no Hi ni,ova,manga,"Iyashikei, Mythology, Slice of Life, Supernatural",Shoujo,pg_13
+273,8.33,70,Psycho-Pass,tv,original,"Action, Adult Cast, Detective, Mystery, Psychological, Sci-Fi, Suspense",,r
+274,8.33,726,Bakuman. 2nd Season,tv,manga,"Comedy, Drama, Otaku Culture, Romance",Shounen,pg_13
+275,8.33,128,Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season,tv,light_novel,"Drama, Fantasy, Isekai, Psychological, Suspense, Time Travel",,r
+276,8.33,5543,Wu Shan Wu Xing: Xichuan Huan Zi Lin,ona,original,"Action, Fantasy, Historical, Martial Arts",,r
+277,8.32,476,Usagi Drop,tv,manga,"Childcare, Iyashikei, Slice of Life",Josei,pg_13
+278,8.32,2623,Kidou Senshi Gundam: The Origin,ova,manga,"Mecha, Military, Sci-Fi, Space",Shounen,r+
+279,8.32,43,Kiseijuu: Sei no Kakuritsu,tv,manga,"Action, Gore, Horror, Psychological, Sci-Fi, Suspense",Seinen,r
+280,8.32,4109,Luo Xiaohei Zhanji (Movie),movie,original,"Adventure, Drama, Fantasy",,g
+281,8.32,1073,One Outs,tv,manga,"Adult Cast, Psychological, Sports, Suspense, Team Sports",Seinen,pg_13
+282,8.32,97,Bakemonogatari,tv,light_novel,"Mystery, Romance, Supernatural, Vampire",,r
+283,8.32,5216,Doraemon Movie 31: Shin Nobita to Tetsujin Heidan - Habatake Tenshi-tachi,movie,manga,"Adventure, Comedy, Fantasy, Kids, Mecha",Shounen,pg
+284,8.32,218,Fate/stay night: Unlimited Blade Works 2nd Season,tv,visual_novel,"Action, Fantasy, Urban Fantasy",,r
+285,8.32,4856,Ginga Eiyuu Densetsu: Die Neue These - Gekitotsu,movie,novel,"Adult Cast, Drama, Military, Sci-Fi, Space",,r
+286,8.32,5574,Ginga Eiyuu Densetsu: Die Neue These - Sakubou,movie,novel,"Adult Cast, Drama, Military, Sci-Fi, Space",,r
+287,8.31,2924,Bocchi the Rock! Movie,movie,4_koma_manga,"CGDCT, Comedy, Music",,pg_13
+288,8.31,655,Dr. Stone: New World Part 2,tv,manga,"Adventure, Comedy",Shounen,pg_13
+289,8.31,1885,Hunter x Hunter: Original Video Animation,ova,manga,"Action, Adventure, Fantasy",Shounen,pg_13
+290,8.31,3307,Romeo no Aoi Sora,tv,novel,"Adventure, Drama, Historical",,pg_13
+291,8.31,3226,Sasaki to Miyano Movie: Sotsugyou-hen,movie,manga,"Boys Love, Otaku Culture, School",,pg_13
+292,8.31,2007,Uchuu Senkan Yamato 2199,ova,original,"Action, Adult Cast, Drama, Military, Sci-Fi, Space",,pg_13
+293,8.31,2983,Major S6,tv,manga,"Sports, Team Sports",Shounen,pg_13
+294,8.31,3440,Natsume Yuujinchou Go Specials,special,manga,"Iyashikei, Mythology, Slice of Life, Supernatural",Shoujo,pg_13
+295,8.31,268,NHK ni Youkoso!,tv,novel,"Comedy, Drama, Otaku Culture, Psychological, Romance",,r+
+296,8.3,1625,Initial D Final Stage,tv,manga,"Action, Drama, Racing",Seinen,pg_13
+297,8.3,426,Natsume Yuujinchou,tv,manga,"Iyashikei, Mythology, Slice of Life, Supernatural",Shoujo,pg_13
+298,8.3,483,Ookami to Koushinryou II,tv,light_novel,"Adult Cast, Adventure, Drama, Romance, Supernatural",,pg_13
+299,8.3,29,Boku dake ga Inai Machi,tv,manga,"Mystery, Psychological, Suspense, Time Travel",Seinen,r
+300,8.3,1741,Diamond no Ace: Second Season,tv,manga,"School, Sports, Team Sports",Shounen,pg_13
+301,8.3,423,Evangelion Movie 2: Ha,movie,original,"Drama, Mecha, Psychological, Sci-Fi, Suspense",,r+
+302,8.3,10450,Fanren Xiu Xian Chuan: Xinghai Feichi,ona,web_novel,"Action, Adventure, Fantasy, Historical, Martial Arts",,pg_13
+303,8.3,3103,Shiguang Dailiren: Yingdu Pian,ona,original,"Adult Cast, Drama, Super Power, Time Travel",,pg_13
+304,8.3,231,Tensei shitara Slime Datta Ken 2nd Season Part 2,tv,manga,"Action, Comedy, Fantasy, Isekai, Reincarnation",Shounen,pg_13
+305,8.29,623,Redline,movie,original,"Action, Adult Cast, Racing, Sci-Fi",,r+
+306,8.29,639,Sakamichi no Apollon,tv,manga,"Drama, Historical, Love Polygon, Music, Romance, School",Josei,pg_13
+307,8.29,1598,Seishun Buta Yarou wa Randoseru Girl no Yume wo Minai,movie,light_novel,"Drama, Romance, School, Supernatural",,pg_13
+308,8.29,541,Steins;Gate: Oukoubakko no Poriomania,special,visual_novel,"Comedy, Sci-Fi, Time Travel",,pg_13
+309,8.29,7529,Tunshi Xingkong 2nd Season,ona,web_novel,"Action, Adventure, Fantasy, Martial Arts, Sci-Fi",,pg_13
+310,8.29,2388,Uma Musume: Pretty Derby Season 2,tv,game,"Anthropomorphic, Racing, Sports",,pg_13
+311,8.29,951,Yuukoku no Moriarty Part 2,tv,manga,"Adult Cast, Historical, Mystery, Organized Crime, Psychological, Suspense",Shounen,r
+312,8.29,417,Katanagatari,tv,light_novel,"Action, Adventure, Historical, Martial Arts, Romance",,r
+313,8.29,2435,Kemono no Souja Erin,tv,novel,"Drama, Fantasy",,pg_13
+314,8.29,1771,Kingdom 2nd Season,tv,manga,"Action, Historical, Military",Seinen,r
+315,8.29,266,Kuroko no Basket 3rd Season,tv,manga,"School, Sports, Team Sports",Shounen,pg_13
+316,8.29,2600,Meitantei Conan Movie 06: Baker Street no Bourei,movie,manga,"Adventure, Detective, Mystery",Shounen,pg_13
+317,8.29,73,Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.,tv,original,"Drama, Supernatural",,pg_13
+318,8.29,727,Beck,tv,manga,"Drama, Music",Shounen,r
+319,8.29,388,Given,tv,manga,"Boys Love, Drama, Music, School",,pg_13
+320,8.28,4550,Ginga Eiyuu Densetsu: Die Neue These - Seiran 3,movie,novel,"Adult Cast, Drama, Military, Sci-Fi, Space",,r
+321,8.28,477,Rurouni Kenshin: Meiji Kenkaku Romantan,tv,manga,"Action, Comedy, Historical, Romance, Samurai",Shounen,pg_13
+322,8.28,4373,Tanoshii Muumin Ikka,tv,book,"Adventure, Fantasy, Iyashikei, Kids, Slice of Life",,g
+323,8.28,841,Tokyo Godfathers,movie,original,"Adult Cast, Award Winning, Childcare, Comedy, Drama",,r+
+324,8.28,766,Kino no Tabi: The Beautiful World,tv,light_novel,"Adventure, Drama, Fantasy",,r
+325,8.28,3968,Major: World Series,ova,manga,"Sports, Team Sports",Shounen,pg_13
+326,8.28,15,Naruto: Shippuuden,tv,manga,"Action, Adventure, Fantasy, Martial Arts",Shounen,pg_13
+327,8.27,494,Kage no Jitsuryokusha ni Naritakute! 2nd Season,tv,light_novel,"Action, Comedy, Fantasy, Isekai, Reincarnation",,r
+328,8.27,340,Koukaku Kidoutai,movie,manga,"Adult Cast, Award Winning, Detective, Mecha, Mystery, Psychological, Sci-Fi, Suspense",Seinen,r+
+329,8.27,2345,Diamond no Ace: Act II,tv,manga,"School, Sports, Team Sports",Shounen,pg_13
+330,8.27,929,Doukyuusei,movie,manga,"Boys Love, School",,pg_13
+331,8.27,1693,Gin no Saji 2nd Season,tv,manga,"Comedy, School",Shounen,pg_13
+332,8.27,3623,Gintama: Shinyaku Benizakura-hen,special,manga,"Action, Comedy, Historical, Parody, Samurai, Sci-Fi",Shounen,pg_13
+333,8.27,156,Tenki no Ko,movie,original,"Award Winning, Drama, Romance, Supernatural",,pg_13
+334,8.26,1142,"Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su 2nd Season",tv,manga,"Action, Adventure, Fantasy, Video Game",Shounen,pg_13
+335,8.26,542,Shirobako,tv,original,"Adult Cast, Award Winning, Comedy, Drama, Otaku Culture, Workplace",,pg_13
+336,8.26,1495,Space☆Dandy 2nd Season,tv,original,"Adult Cast, Comedy, Sci-Fi, Space",,pg_13
+337,8.26,1024,Spy x Family Season 3,tv,manga,"Action, Childcare, Comedy, Super Power",Shounen,pg_13
+338,8.26,955,Steins;Gate: Kyoukaimenjou no Missing Link - Divide By Zero,tv_special,visual_novel,"Sci-Fi, Suspense, Time Travel",,pg_13
+339,8.26,464,Tenkuu no Shiro Laputa,movie,original,"Adventure, Award Winning, Fantasy",,pg
+340,8.26,2324,Tsubasa: Tokyo Revelations,ova,manga,"Action, Adventure, Drama, Fantasy, Romance",Shounen,r
+341,8.26,461,Yuru Camp△,tv,manga,"CGDCT, Iyashikei, Slice of Life",,pg_13
+342,8.26,107,Dororo,tv,manga,"Action, Adventure, Fantasy, Historical, Mythology, Samurai",Shounen,r
+343,8.26,7086,Doupo Cangqiong 4th Season,ona,web_novel,"Action, Adventure, Fantasy, Historical, Martial Arts, Romance",,pg_13
+344,8.26,49,Dr. Stone,tv,manga,"Adventure, Comedy",Shounen,pg_13
+345,8.26,83,Fate/Zero,tv,light_novel,"Action, Fantasy, Urban Fantasy",,r
+346,8.26,688,Gyakkyou Burai Kaiji: Ultimate Survivor,tv,manga,"Adult Cast, High Stakes Game, Psychological, Strategy Game, Suspense",Seinen,r
+347,8.26,2292,Haikyuu!! Movie 4: Concept no Tatakai,movie,manga,"School, Sports, Team Sports",Shounen,pg_13
+348,8.26,240,Hotarubi no Mori e,movie,manga,"Award Winning, Drama, Romance, Supernatural",Shoujo,g
+349,8.25,988,Dr. Stone: Science Future,tv,manga,"Adventure, Comedy",Shounen,pg_13
+350,8.25,960,Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Shin Shou - Yakusai-hen,tv,light_novel,"Action, Adventure, Fantasy",,r
+351,8.25,1692,Hajime no Ippo: Champion Road,tv_special,manga,"Combat Sports, Sports",Shounen,pg_13
+352,8.25,1999,Hajime no Ippo: Mashiba vs. Kimura,ova,manga,"Combat Sports, Sports",Shounen,pg_13
+353,8.25,1683,Hunter x Hunter: Greed Island Final,ova,manga,"Action, Adventure, Fantasy",Shounen,pg_13
+354,8.25,1229,Kuroshitsuji Movie: Book of the Atlantic,movie,manga,"Action, Historical, Mystery, Mythology, Supernatural",Shounen,r
+355,8.25,824,Nodame Cantabile,tv,manga,"Adult Cast, Comedy, Music, Performing Arts, Romance",Josei,pg_13
+356,8.25,530,Suzume no Tojimari,movie,original,"Adventure, Mythology, Supernatural",,pg_13
+357,8.25,144,Tonari no Totoro,movie,original,"Adventure, Award Winning, Supernatural",,g
+358,8.25,5811,Wu Liuqi: Jiyi Suipian,ona,original,"Action, Adventure, Comedy, Drama, Mystery, Sci-Fi, Supernatural",,r
+359,8.24,23,Re:Zero kara Hajimeru Isekai Seikatsu,tv,light_novel,"Drama, Fantasy, Isekai, Psychological, Suspense, Time Travel",,r
+360,8.24,1320,Sennen Joyuu,movie,original,"Action, Adult Cast, Adventure, Award Winning, Drama, Fantasy, Historical, Romance, Showbiz",,pg_13
+361,8.24,269,Shinsekai yori,tv,novel,"Drama, Fantasy, Horror, Mystery, Psychological, Sci-Fi, Suspense",,r
+362,8.24,677,Shoujo Shuumatsu Ryokou,tv,web_manga,"Adventure, Iyashikei, Mystery, Sci-Fi, Slice of Life",,pg_13
+363,8.24,760,Stranger: Mukou Hadan,movie,original,"Action, Adventure, Historical, Samurai",,r
+364,8.24,1858,World Trigger 3rd Season,tv,manga,"Action, Sci-Fi",Shounen,pg_13
+365,8.24,4086,Wu Liuqi: Anying Suming,ona,original,"Action, Adventure, Comedy, Drama, Martial Arts, Mystery, Super Power",,r
+366,8.24,1196,Golden Kamuy 2nd Season,tv,manga,"Action, Adult Cast, Adventure, Historical, Military",Seinen,r
+367,8.24,1294,Gyakkyou Burai Kaiji: Hakairoku-hen,tv,manga,"Adult Cast, High Stakes Game, Psychological, Strategy Game, Suspense",Seinen,r
+368,8.24,345,Kaijuu 8-gou,tv,manga,"Action, Adult Cast, Fantasy, Military, Sci-Fi, Urban Fantasy",Shounen,pg_13
+369,8.24,556,Kamisama Hajimemashita◎,tv,manga,"Comedy, Mythology, Romance, Supernatural",Shoujo,pg_13
+370,8.24,77,Kono Subarashii Sekai ni Shukufuku wo! 2,tv,light_novel,"Adventure, Comedy, Fantasy, Isekai, Parody",,pg_13
+371,8.24,4286,Meitantei Conan: Episode One - Chiisaku Natta Meitantei,tv_special,manga,"Adventure, Comedy, Detective, Mystery",Shounen,pg_13
+372,8.24,5562,Mononoke Movie 2: Hinezumi,movie,original,"Adult Cast, Historical, Horror, Mystery, Mythology, Psychological, Supernatural, Suspense",,r
+373,8.24,991,Planetes,tv,manga,"Adult Cast, Award Winning, Drama, Romance, Sci-Fi, Space, Workplace",Seinen,pg_13
+374,8.23,4791,IDOLiSH7 Third Beat!,tv,game,"Drama, Idols (Male), Music",,pg_13
+375,8.23,259,Kage no Jitsuryokusha ni Naritakute!,tv,light_novel,"Action, Comedy, Fantasy, Isekai, Reincarnation",,r
+376,8.23,1661,Kidou Senshi Gundam: Tekketsu no Orphans 2nd Season,tv,original,"Drama, Mecha, Sci-Fi, Space",,r
+377,8.23,1327,Kono Sekai no Katasumi ni,movie,manga,"Award Winning, Drama, Historical",Seinen,pg_13
+378,8.23,372,Majo no Takkyuubin,movie,novel,"Adventure, Award Winning, Comedy, Drama, Fantasy",,g
+379,8.23,2585,Non Non Biyori Movie: Vacation,movie,manga,"CGDCT, Iyashikei, Slice of Life",Seinen,pg_13
+380,8.23,48,Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai,tv,light_novel,"Drama, Romance, School, Supernatural",,pg_13
+381,8.23,8035,Shen Yin Wangzuo 2nd Season,ona,web_novel,"Action, Adventure, Fantasy",,pg_13
+382,8.23,1138,Shoujo Kakumei Utena,tv,original,"Award Winning, Drama, Mahou Shoujo, Psychological, School",,pg_13
+383,8.23,10273,Yi Nian Yong Heng 3rd Season,ona,web_novel,"Action, Adventure, Comedy, Fantasy, Historical, Martial Arts",,pg_13
+384,8.23,859,Youjo Senki Movie,movie,light_novel,"Action, Fantasy, Isekai, Military, Reincarnation",,r
+385,8.23,3998,BanG Dream! It's MyGO!!!!!,tv,mixed_media,"Drama, Music",,pg_13
+386,8.23,236,Danshi Koukousei no Nichijou,tv,web_manga,"Comedy, Gag Humor, School",,pg_13
+387,8.22,569,Bakemono no Ko,movie,original,"Anthropomorphic, Fantasy, Isekai",,pg_13
+388,8.22,284,Boku no Hero Academia 6th Season,tv,manga,"Action, School, Super Power",Shounen,pg_13
+389,8.22,710,Gachiakuta,tv,manga,"Action, Fantasy",Shounen,pg_13
+390,8.22,1650,Liz to Aoi Tori,movie,novel,"Award Winning, Drama, Music, Performing Arts, School",,pg_13
+391,8.22,1277,Mahou Shoujo Madoka★Magica Movie 1: Hajimari no Monogatari,movie,original,"Drama, Mahou Shoujo, Psychological, Suspense",,pg_13
+392,8.22,662,Mimi wo Sumaseba,movie,manga,"Drama, Romance",Shoujo,g
+393,8.22,6047,Mushen Ji,ona,web_novel,"Action, Adventure, Fantasy, Historical, Martial Arts",,pg_13
+394,8.22,1915,Nodame Cantabile Finale,tv,manga,"Adult Cast, Comedy, Music, Performing Arts, Romance",Josei,pg_13
+395,8.22,264,Trigun,tv,manga,"Action, Adult Cast, Adventure, Sci-Fi",Shounen,pg_13
+396,8.22,2404,Wu Liuqi: Zui Qiang Fa Xing Shi,ona,original,"Action, Comedy, Drama, Martial Arts, Mystery, Super Power",,pg_13
+397,8.21,586,ReLIFE: Kanketsu-hen,special,web_manga,"Drama, Romance, School",,pg_13
+398,8.21,1131,Saiki Kusuo no Ψ-nan: Kanketsu-hen,tv_special,manga,"Comedy, Gag Humor, School, Super Power",Shounen,pg_13
+399,8.21,635,Sono Bisque Doll wa Koi wo Suru Season 2,tv,manga,"Otaku Culture, Romance, School",Seinen,pg_13
+400,8.21,158,Spy x Family Part 2,tv,manga,"Action, Childcare, Comedy, Super Power",Shounen,pg_13
+401,8.21,404,Tengoku Daimakyou,tv,manga,"Adventure, Mystery, Sci-Fi",Seinen,r
+402,8.21,1134,Berserk: Ougon Jidai-hen III - Kourin,movie,manga,"Action, Adventure, Drama, Fantasy, Gore, Horror, Military, Psychological",Seinen,r+
+403,8.21,622,Boku no Kokoro no Yabai Yatsu,tv,manga,"Comedy, Romance, School",Shounen,pg_13
+404,8.21,2030,Cardcaptor Sakura Movie 2: Fuuin Sareta Card,movie,manga,"Award Winning, Comedy, Drama, Mahou Shoujo, Romance",Shoujo,pg
+405,8.21,212,Fruits Basket 1st Season,tv,manga,"Drama, Love Polygon, Romance, School, Supernatural",Shoujo,pg_13
+406,8.21,1068,Kaguya-hime no Monogatari,movie,other,"Award Winning, Fantasy, Historical",,r+
+407,8.21,407,Kobayashi-san Chi no Maid Dragon S,tv,manga,"Slice of Life, Supernatural",,pg_13
+408,8.21,2822,Major S3,tv,manga,"Sports, Team Sports",Shounen,pg_13
+409,8.21,318,Mushoku Tensei II: Isekai Ittara Honki Dasu,tv,light_novel,"Adventure, Drama, Ecchi, Fantasy, Isekai, Reincarnation",,r
+410,8.21,243,Ookami to Koushinryou,tv,light_novel,"Adult Cast, Adventure, Drama, Romance, Supernatural",,pg_13
+411,8.2,908,InuYasha: Kanketsu-hen,tv,manga,"Action, Adventure, Fantasy, Historical, Love Polygon, Mythology, Romance, Time Travel",Shounen,pg_13
+412,8.2,216,Kuroko no Basket 2nd Season,tv,manga,"School, Sports, Team Sports",Shounen,pg_13
+413,8.2,227,Magi: The Kingdom of Magic,tv,manga,"Action, Adventure, Fantasy",Shounen,pg_13
+414,8.2,2657,Maison Ikkoku,tv,manga,"Adult Cast, Comedy, Drama, Romance",Seinen,r+
+415,8.2,2222,Major S1,tv,manga,"Sports, Team Sports",Shounen,pg_13
+416,8.2,3037,Meitantei Conan Movie 13: Shikkoku no Chaser,movie,manga,"Action, Detective, Mystery",Shounen,pg_13
+417,8.2,167,Ore dake Level Up na Ken,tv,web_manga,"Action, Adult Cast, Adventure, Fantasy, Urban Fantasy",,r
+418,8.2,1163,SKET Dance,tv,manga,"Comedy, School",Shounen,pg_13
+419,8.2,1695,xxxHOLiC◆Kei,tv,manga,"Comedy, Drama, Mystery, Supernatural",Seinen,pg_13
+420,8.2,145,Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku,tv,light_novel,"Comedy, Love Polygon, Romance, School",,pg_13
+421,8.2,834,Yubisaki to Renren,tv,manga,"Adult Cast, Romance",Shoujo,pg_13
+422,8.2,334,Bungou Stray Dogs 3rd Season,tv,manga,"Action, Adult Cast, Detective, Mystery, Organized Crime, Super Power",Seinen,r
+423,8.2,558,Dragon Ball Super: Broly,movie,manga,"Action, Adventure, Fantasy, Martial Arts",Shounen,pg_13
+424,8.2,114,Dragon Ball Z,tv,manga,"Action, Adventure, Comedy, Fantasy, Martial Arts",Shounen,pg_13
+425,8.2,2237,Haikyuu!! Movie 3: Sainou to Sense,movie,manga,"School, Sports, Team Sports",Shounen,pg_13
+426,8.19,468,Asobi Asobase,tv,manga,"Comedy, Gag Humor, School",Seinen,pg_13
+427,8.19,12429,Cang Yuan Tu 2,ona,web_novel,"Action, Adventure, Fantasy, Historical, Martial Arts",,pg_13
+428,8.19,1955,Girls & Panzer Movie,movie,original,"Action, Award Winning, CGDCT, Military, School",,pg_13
+429,8.19,308,Great Pretender,tv,original,"Action, Adult Cast, Adventure, Mystery, Organized Crime",,r
+430,8.19,82,Horimiya,tv,manga,"Romance, School",Shounen,pg_13
+431,8.19,1062,Initial D Second Stage,tv,manga,"Action, Drama, Racing",Seinen,pg_13
+432,8.19,4706,Mo Dao Zu Shi Q,ona,web_novel,"Comedy, Fantasy, Historical, Mythology, Reincarnation",,pg_13
+433,8.19,2166,Quanzhi Gaoshou Specials,ona,web_novel,"Action, Video Game",,pg_13
+434,8.19,1204,Sasaki to Miyano,tv,web_manga,"Boys Love, Otaku Culture, School",,pg_13
+435,8.19,3791,Senki Zesshou Symphogear XV,tv,original,"Action, Idols (Female), Music, Sci-Fi",,pg_13
+436,8.19,3919,Stand By Me Doraemon 2,movie,manga,"Comedy, Kids, Sci-Fi, Time Travel",,pg
+437,8.19,804,Vanitas no Karte Part 2,tv,manga,"Action, Fantasy, Historical, Mystery, Urban Fantasy, Vampire",Shounen,r
+438,8.19,7403,Yi Nian Yong Heng 2nd Season,ona,web_novel,"Action, Adventure, Fantasy, Historical, Martial Arts",,pg_13
+439,8.18,1432,Seishun Buta Yarou wa Santa Claus no Yume wo Minai,tv,light_novel,"Drama, Romance, School, Supernatural",,pg_13
+440,8.18,2580,xxxHOLiC Rou,ova,manga,"Drama, Mystery, Supernatural",Seinen,pg_13
+441,8.18,529,Cardcaptor Sakura,tv,manga,"Adventure, Comedy, Drama, Mahou Shoujo, Romance, School",Shoujo,pg
+442,8.18,142,Fate/stay night: Unlimited Blade Works,tv,visual_novel,"Action, Fantasy, Urban Fantasy",,r
+443,8.18,2315,Fate/strange Fake: Whispers of Dawn,tv_special,light_novel,"Action, Fantasy, Urban Fantasy",,r
+444,8.18,2012,Hachimitsu to Clover II,tv,manga,"Adult Cast, Drama, Love Polygon, Romance, Visual Arts",Josei,pg_13
+445,8.18,1499,Hunter x Hunter: Greed Island,ova,manga,"Action, Adventure, Fantasy",Shounen,pg_13
+446,8.18,303,K-On!!,tv,4_koma_manga,"Award Winning, CGDCT, Comedy, Music, School",,pg_13
+447,8.18,1651,Made in Abyss Movie 1: Tabidachi no Yoake,movie,web_manga,"Adventure, Drama, Fantasy, Gore, Mystery, Sci-Fi",,r
+448,8.18,2926,Major S4,tv,manga,"Sports, Team Sports",Shounen,pg_13
+449,8.18,712,Meitantei Conan,tv,manga,"Adventure, Comedy, Detective, Mystery",Shounen,pg_13
+450,8.18,1212,Nomad: Megalo Box 2,tv,original,"Adult Cast, Combat Sports, Sci-Fi, Sports",,r
+451,8.18,1264,One Piece Movie 14: Stampede,movie,manga,"Action, Adventure, Fantasy",Shounen,pg_13
+452,8.18,2686,One Piece: Episode of Merry - Mou Hitori no Nakama no Monogatari,tv_special,manga,"Action, Adventure, Fantasy",Shounen,pg_13
+453,8.17,1299,Initial D Fourth Stage,tv,manga,"Action, Drama, Racing",Seinen,pg_13
+454,8.17,2853,"Kamisama Hajimemashita: Kamisama, Shiawase ni Naru",ova,manga,"Comedy, Mythology, Romance, Supernatural",Shoujo,pg_13
+455,8.17,168,Kimetsu no Yaiba: Katanakaji no Sato-hen,tv,manga,"Action, Historical, Supernatural",Shounen,r
+456,8.17,2977,Kuroshitsuji: Midori no Majo-hen,tv,manga,"Action, Historical, Mystery, Mythology, Supernatural",Shounen,r
+457,8.17,1533,Little Busters! Refrain,tv,visual_novel,"Comedy, Drama, Romance, School",,pg_13
+458,8.17,2770,Major S2,tv,manga,"Sports, Team Sports",Shounen,pg_13
+459,8.17,3654,Meitantei Conan Movie 20: Junkoku no Nightmare,movie,manga,"Action, Detective, Mystery",Shounen,g
+460,8.17,3397,Natsume Yuujinchou: Ishi Okoshi to Ayashiki Raihousha,movie,manga,"Iyashikei, Mythology, Slice of Life, Supernatural",Shoujo,pg_13
+461,8.17,1289,Non Non Biyori Repeat,tv,manga,"CGDCT, Iyashikei, School, Slice of Life",Seinen,pg_13
+462,8.17,1425,Tengen Toppa Gurren Lagann Movie 1: Gurren-hen,movie,original,"Mecha, Sci-Fi",,pg_13
+463,8.17,3085,Yojouhan Time Machine Blues,ona,novel,"Adult Cast, Comedy, Mystery, Psychological, Romance, Suspense, Time Travel",,pg_13
+464,8.17,1840,Yoru wa Mijikashi Arukeyo Otome,movie,novel,"Adult Cast, Comedy, Romance",,r+
+465,8.17,509,Yuukoku no Moriarty,tv,manga,"Adult Cast, Historical, Mystery, Organized Crime, Psychological, Suspense",Shounen,r
+466,8.17,910,Ao no Hako,tv,manga,"Love Polygon, Romance, School, Sports, Team Sports",Shounen,pg_13
+467,8.17,369,Bakuman.,tv,manga,"Comedy, Drama, Otaku Culture, Romance",Shounen,pg_13
+468,8.17,747,Ballroom e Youkoso,tv,manga,"Performing Arts, Sports",Shounen,pg_13
+469,8.17,434,Black Lagoon: The Second Barrage,tv,manga,"Action, Adult Cast, Organized Crime",Seinen,r
+470,8.17,9418,Cang Yuan Tu,ona,web_novel,"Action, Adventure, Fantasy, Historical, Martial Arts",,pg_13
+471,8.17,512,Chihayafuru,tv,manga,"Drama, Love Polygon, Romance, School, Sports, Strategy Game",Josei,pg_13
+472,8.17,3109,Digimon Adventure: Last Evolution Kizuna,movie,original,"Action, Adventure, Comedy, Drama",,pg_13
+473,8.17,3936,Ginga Eiyuu Densetsu: Die Neue These - Seiran 2,movie,novel,"Adult Cast, Drama, Military, Sci-Fi, Space",,r
+474,8.17,3673,Girls & Panzer: Saishuushou Part 3,movie,original,"CGDCT, Military, School",,pg_13
+475,8.16,208,Akira,movie,manga,"Action, Gore, Horror, Military, Sci-Fi, Super Power",Seinen,r+
+476,8.16,2596,Aria the Natural,tv,manga,"Iyashikei, Sci-Fi, Slice of Life",Shounen,g
+477,8.16,206,Bungou Stray Dogs 2nd Season,tv,manga,"Action, Adult Cast, Detective, Mystery, Organized Crime, Super Power",Seinen,r
+478,8.16,485,Higurashi no Naku Koro ni Kai,tv,visual_novel,"Gore, Horror, Mystery, Psychological, Suspense",,r
+479,8.16,5943,Hyakuemu.,movie,web_manga,"Drama, Sports",,pg_13
+480,8.16,209,No Game No Life: Zero,movie,light_novel,"Drama, Fantasy, Isekai, Romance",,pg_13
+481,8.16,135,Ouran Koukou Host Club,tv,manga,"Comedy, Crossdressing, Reverse Harem, Romance, School",Shoujo,pg_13
+482,8.15,2834,Kono Subarashii Sekai ni Shukufuku wo! 3: Bonus Stage,ova,light_novel,"Adventure, Comedy, Fantasy, Isekai, Parody",,pg_13
+483,8.15,1373,Kotarou wa Hitorigurashi,ona,manga,"Childcare, Slice of Life",Seinen,pg_13
+484,8.15,1870,Lupin III: Cagliostro no Shiro,movie,manga,"Action, Adult Cast, Adventure, Award Winning, Comedy, Mystery",Seinen,pg_13
+485,8.15,4063,Non Non Biyori Nonstop: Bukatsu wo Ganbatta,ova,manga,"CGDCT, Iyashikei, Slice of Life",Seinen,pg_13
+486,8.15,1101,Ao Ashi,tv,manga,"Sports, Team Sports",Seinen,pg_13
+487,8.15,427,Dr. Stone: New World,tv,manga,"Adventure, Comedy",Shounen,pg_13
+488,8.15,140,Dr. Stone: Stone Wars,tv,manga,"Adventure, Comedy",Shounen,pg_13
+489,8.15,496,Fate/stay night Movie: Heaven's Feel - I. Presage Flower,movie,visual_novel,"Action, Fantasy, Urban Fantasy",,r
+490,8.15,3204,Holo no Graffiti,ona,other,Comedy,,pg_13
+491,8.14,55,Black Clover,tv,manga,"Action, Fantasy",Shounen,pg_13
+492,8.14,244,Blue Lock,tv,manga,"Sports, Team Sports",Shounen,pg_13
+493,8.14,430,Lycoris Recoil,tv,original,Action,,pg_13
+494,8.14,88,Noragami Aragoto,tv,manga,"Action, Mythology, Supernatural",Shounen,pg_13
+495,8.14,1475,Princess Tutu,tv,original,"Anthropomorphic, Drama, Love Polygon, Mahou Shoujo, Mystery, Performing Arts, Romance",,pg_13
+496,8.14,122,Sono Bisque Doll wa Koi wo Suru,tv,manga,"Otaku Culture, Romance, School",Seinen,pg_13
+497,8.14,2330,The Fable,tv,manga,"Adult Cast, Comedy, Organized Crime, Suspense",Seinen,r
+498,8.14,1048,Toaru Kagaku no Railgun T,tv,manga,"Action, Fantasy, Sci-Fi, Super Power, Urban Fantasy",,r
+499,8.13,6981,Shen Yin Wangzuo,ona,web_novel,"Action, Adventure, Fantasy",,pg_13
+500,8.13,78,Tensei shitara Slime Datta Ken,tv,manga,"Action, Comedy, Fantasy, Isekai, Reincarnation",Shounen,pg_13
